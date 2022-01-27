@@ -1,0 +1,25 @@
+.sidebar {
+  position: absolute;
+  top: 0%;
+  left: -90%;
+  width: 400px;
+  padding: 50px;
+  text-align: center;
+}
+.btn-logout{
+  background: url("https://i.ibb.co/61rfZGm/gradienta-Le-G68-Pr-XA6-Y-unsplash-2.jpg");
+  color: white;
+  border-radius: 5px;
+  font-size: larger;
+  display: block;
+  padding: 5px;
+  margin-left: 40px;
+ ;
+ 
+  
+}
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+  
+}
